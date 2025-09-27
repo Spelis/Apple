@@ -33,8 +33,8 @@ void CApple::Move() {
 			x++;
 		}
 
-		x = std::max(std::min(x, 14), 0);
-		y = std::max(std::min(y, 14), 0);
+		x = std::max(std::min(x, 19), 0);
+		y = std::max(std::min(y, 19), 0);
 
 		appleKeysPressed = 0;
 		moveTimer -= 0.1f;
