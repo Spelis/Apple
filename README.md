@@ -1,7 +1,9 @@
 # Apple
 
 **What if you weren't the snake... but the apple?**
+
 Apple is a playful twist on the classic Snake game where you take control of the apple, dodging the hungry snake that's determined to catch you.
+
 (The Snake grows with photosynthesis)
 
 ## Gameplay
@@ -26,4 +28,5 @@ $ ./build/apple
 
 ## Credits
 Created by me (@spelis)
+
 Raylib created by @raysan5
