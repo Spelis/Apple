@@ -18,7 +18,7 @@ Apple is a playful twist on the classic Snake game where you take control of the
 1. Clone this repo
 2. Run these commands:
 ```
-$ make raylib
+$ make raylib # or use system raylib, make sure it's at LEAST 5.5 (won't compile directly) or 5.6-dev (will compile)
 $ make
 ```
 3. Run the game:
